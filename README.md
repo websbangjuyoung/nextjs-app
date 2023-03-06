@@ -1,8 +1,15 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Nextjs Starter App
 
-## Getting Started
+This is a nextjs + storybook + tailwindcss project.
 
-First, run the development server:
+## What's inside?
+
+This Starter App includes the following packages:
+
+### Packages
+
+- nextjs: React Server Side framework (https://nextjs.org/)
+- tailwindcss: utility-first CSS framework (https://tailwindcss.com/)
 
 ```bash
 npm run dev
